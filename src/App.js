@@ -11,6 +11,7 @@ import Sidebar from './Sidebar.js';
 import Sidebar2 from './Sidebar2.js';
 import Posts from './Posts.js';
 
+
 function App() {
 
   const [user, setUser] = useState([]);
